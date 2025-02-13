@@ -3,9 +3,12 @@
     "development"
   ],
   "hints": {
-    "axe/text-alternatives": "off",
     "meta-viewport": "off",
-    "axe/forms": "off",
-    "disown-opener": "off"
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
+    ]
   }
 }
