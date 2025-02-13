@@ -1,0 +1,50 @@
+body {
+    background-color: #E0C9AF;
+  }
+
+  h1, h3 {
+    text-align: center;
+    font-family: Quattrocento Sans;
+  }
+  figcaption{
+    text-align:center;
+  }
+
+     .container {
+font-size: 40px;
+width: 100%;
+height: auto;
+background: White;
+padding-top: 20px;
+padding-bottom: 1px;
+  }
+  #img-div {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  #image {
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin:  auto; 
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;       
+  }
+
+p {
+  font-size: 18px;
+  font-family: Quattrocento Sans;
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+  font-family: Quattrocento Sans;
+}
+li {
+  padding-bottom: 20px;
+  margin-left: 5%;
+}
